@@ -1,5 +1,5 @@
 ﻿# Hybrid Financial Fraud Detection System
-### A Hybrid Fraud Detection Framework Combining Rule-Based Detection, Behavioral Velocity, Graph Analytics, and Machine Learning
+### A Two-Stage Fraud Detection Framework Combining Rule-Based Screening, Behavioral Modeling, Graph Analytics, Anomaly Detection, and Explainable Machine Learning
 
 ## 1. Giới thiệu
 
